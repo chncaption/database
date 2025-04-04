@@ -211,7 +211,7 @@ Copyright 2010 by TalkingTrends (Amsterdam, The Netherlands)
     <jetty.version>9.4.12.v20180830</jetty.version>
     <servlet.version>3.1.0</servlet.version>
     <lucene.version>5.5.0</lucene.version>
-    <apache.commons_codec.version>1.4</apache.commons_codec.version>
+    <apache.commons_codec.version>1.14</apache.commons_codec.version>
     <apache.commons_configuration.version>1.10</apache.commons_configuration.version>
     <apache.commons_fileupload.version>1.3.1</apache.commons_fileupload.version>
     <apache.commons_io.version>2.1</apache.commons_io.version>
